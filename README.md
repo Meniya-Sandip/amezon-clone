@@ -1,2 +1,1 @@
-# amezon-clone
-Simple Amazon Home Page Clone. 
+Demo Page - https://meniya-sandip.github.io/amezon-clone
